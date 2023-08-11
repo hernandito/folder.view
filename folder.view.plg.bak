@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <!DOCTYPE PLUGIN [
 <!ENTITY name "folder.view">
-<!ENTITY author "scolcipitato">
+<!ENTITY author "hernandito">
 <!ENTITY github "&author;/&name;">
 <!ENTITY launch "Settings/FolderView">
 <!ENTITY plugdir "/usr/local/emhttp/plugins/&name;">
@@ -13,7 +13,7 @@
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" icon="folder-open-o" support="https://forums.unraid.net/topic/142782-plugin-folderview/" min="6.12.3">
     <CHANGES>
 ###2023.08.09.1
-- Preview vertical bars now follows the color of the preview border
+- Preview vertical bars now follows the color of the preview borde-roi
 
 ###2023.08.09
 - Fixed caching problem
