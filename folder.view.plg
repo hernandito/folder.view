@@ -6,12 +6,16 @@
 <!ENTITY launch "Settings/FolderView">
 <!ENTITY plugdir "/usr/local/emhttp/plugins/&name;">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/&github;/main/&name;.plg">
-<!ENTITY version "2023.08.11.3">
-<!ENTITY md5 "0f6c41f1240f3729be5b6e949b997971">
+<!ENTITY version "2023.08.11.4">
+<!ENTITY md5 "18b5f1b7009f8d4e06906ad6b933d9a1">
 ]>
 
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" icon="folder-open-o" support="https://forums.unraid.net/topic/142782-plugin-folderview/" min="6.12.3">
     <CHANGES>
+
+###2023.08.11.4
+- Eliminate the empty <td> for uptime
+
 ###2023.08.09.1
 - Preview vertical bars now follows the color of the preview borde-roi-na
 
